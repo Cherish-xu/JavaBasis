@@ -4,7 +4,15 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="159d5750-9249-42a1-ae09-659a4824fb8a" name="Default Changelist" comment="" />
+    <list default="true" id="159d5750-9249-42a1-ae09-659a4824fb8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/线程/_03/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/线程/_03/ThreadOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/线程/_03/ThreadThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/线程/_03/ThreadTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/渡一教育/线程/_02/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/渡一教育/线程/_02/TestMain.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +57,15 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.TestMain (1)">
-    <configuration name="SendEMail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.渡一教育.send.SendEMail" />
+  <component name="RunManager" selected="Application.TestMain (3)">
+    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.线程._02.TestMain" />
       <module name="JavaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.渡一教育.send.*" />
+          <option name="PATTERN" value="渡一教育.线程._02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +73,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="渡一教育.线程._02.TestMain" />
+    <configuration name="TestMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.线程._01.testthread.TestMain" />
       <module name="JavaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="渡一教育.线程._02.*" />
+          <option name="PATTERN" value="渡一教育.线程._01.testthread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.线程._03.TestMain" />
+      <module name="JavaBasis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="渡一教育.线程._03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +151,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JavaBasis" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49833" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMain (3)" />
+        <item itemvalue="Application.TestMain (2)" />
         <item itemvalue="Application.TestMain (1)" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.TestUtil" />
-        <item itemvalue="Application.SendEMail" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +251,13 @@
       <workItem from="1584059682991" duration="601000" />
       <workItem from="1584061006514" duration="318000" />
       <workItem from="1584061592263" duration="44000" />
-      <workItem from="1584070187036" duration="7837000" />
+      <workItem from="1584070187036" duration="8324000" />
+      <workItem from="1584195052427" duration="84000" />
+      <workItem from="1584230363298" duration="163000" />
+      <workItem from="1584264654693" duration="621000" />
+      <workItem from="1584268247944" duration="847000" />
+      <workItem from="1584317651584" duration="2899000" />
+      <workItem from="1584321570477" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="My first">
       <created>1584085123392</created>
@@ -176,49 +266,78 @@
       <option name="project" value="LOCAL" />
       <updated>1584085123392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My first">
+      <created>1584085553333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584085553333</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first" />
     <option name="LAST_COMMIT_MESSAGE" value="My first" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="584" y="81" key="#Tomcat_Server" timestamp="1584268617920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="81" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1584268617920" />
+    <state x="447" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584268628237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584268628237" />
     <state x="998" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1584079076260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="998" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584079076260" />
-    <state x="879" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584061213650">
+    <state x="879" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584319348960">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="879" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584061213650" />
-    <state x="713" y="21" key="CommitChangelistDialog2" timestamp="1584085110919">
+    <state x="879" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584319348960" />
+    <state x="713" y="21" key="CommitChangelistDialog2" timestamp="1584085552373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="713" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584085110919" />
-    <state x="951" y="178" key="FileChooserDialogImpl" timestamp="1584084959767">
+    <state x="713" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584085552373" />
+    <state x="911" y="105" width="541" height="631" key="DiffContextDialog" timestamp="1584268912575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="951" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584084959767" />
-    <state width="668" height="229" key="GridCell.Tab.0.bottom" timestamp="1584084544103">
+    <state x="911" y="105" width="541" height="631" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584268912575" />
+    <state x="951" y="178" key="FileChooserDialogImpl" timestamp="1584268615712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="668" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584084544103" />
-    <state width="668" height="229" key="GridCell.Tab.0.center" timestamp="1584084544103">
+    <state x="951" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584268615712" />
+    <state width="685" height="175" key="GridCell.Tab.0.bottom" timestamp="1584323686176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="668" height="229" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584084544103" />
-    <state width="668" height="229" key="GridCell.Tab.0.left" timestamp="1584084544103">
+    <state width="685" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584323686176" />
+    <state width="685" height="175" key="GridCell.Tab.0.center" timestamp="1584323686176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="668" height="229" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584084544103" />
-    <state width="668" height="229" key="GridCell.Tab.0.right" timestamp="1584084544103">
+    <state width="685" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584323686176" />
+    <state width="685" height="175" key="GridCell.Tab.0.left" timestamp="1584323686176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="668" height="229" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584084544103" />
+    <state width="685" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584323686176" />
+    <state width="685" height="175" key="GridCell.Tab.0.right" timestamp="1584323686176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="685" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584323686176" />
     <state width="650" height="234" key="GridCell.Tab.1.bottom" timestamp="1584021011915">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -235,22 +354,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="650" height="234" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584021011915" />
-    <state x="508" y="83" key="SettingsEditor" timestamp="1584085533813">
+    <state x="508" y="83" key="SettingsEditor" timestamp="1584264676467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="508" y="83" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584085533813" />
-    <state x="590" y="174" key="Vcs.Push.Dialog.v2" timestamp="1584085355124">
+    <state x="508" y="83" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584264676467" />
+    <state x="722" y="160" key="Vcs.Push.Dialog.v2" timestamp="1584085683817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="590" y="174" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584085355124" />
+    <state x="722" y="160" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584085683817" />
     <state x="695" y="229" key="chooseDestDirectoryDialog" timestamp="1583973451464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="695" y="229" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1583973451464" />
-    <state x="356" y="5" key="new project wizard" timestamp="1584084562478">
+    <state x="356" y="38" width="1180" height="786" key="new project wizard" timestamp="1584269092588">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="5" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584084562478" />
+    <state x="356" y="38" width="1180" height="786" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584269092588" />
     <state x="854" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584010440165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
