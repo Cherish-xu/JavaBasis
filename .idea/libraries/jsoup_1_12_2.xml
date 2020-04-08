@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsoup-1.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/渡一教育/直播课/java爬虫/lib/jsoup-1.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

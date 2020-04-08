@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159d5750-9249-42a1-ae09-659a4824fb8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/myselt/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/myselt/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/直播课/java爬虫/lib/jsoup-1.12.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/渡一教育/直播课/java爬虫/王者荣耀/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/Persion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/Persion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasis/JavaBasis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasis/JavaBasis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/TestAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/渡一教育/反射二刷/_03/testannotation/TestAnnotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Interface" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,10 +52,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/src/渡一教育" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/渡一教育/直播课/java爬虫/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,13 +68,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="ChangeStringValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="渡一教育.反射二刷._01.ChangeStringValue" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="渡一教育.直播课.java爬虫.英雄联盟" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA 程序\JavaBasis\src\渡一教育\直播课\java爬虫\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestMain (1)">
+    <configuration name="TestAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.反射二刷._03.testannotation.TestAnnotation" />
       <module name="JavaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="渡一教育.反射二刷._01.*" />
+          <option name="PATTERN" value="渡一教育.反射二刷._03.testannotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="渡一教育.反射二刷._01.TestMain" />
+    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.直播课.java爬虫.英雄联盟.TestMain" />
       <module name="JavaBasis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="渡一教育.反射二刷._01.*" />
+          <option name="PATTERN" value="渡一教育.直播课.java爬虫.英雄联盟.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,6 +122,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="渡一教育.反射二刷._02.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="渡一教育.直播课.java爬虫.王者荣耀.TestMain" />
+      <module name="JavaBasis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="渡一教育.直播课.java爬虫.王者荣耀.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMain (1)" />
+        <item itemvalue="Application.TestMain (1)" />
+        <item itemvalue="Application.TestAnnotation" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.TestConstructor" />
-        <item itemvalue="Application.TestMethod" />
-        <item itemvalue="Application.ChangeStringValue" />
-        <item itemvalue="Application.TestMain (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +270,8 @@
       <workItem from="1584432459647" duration="4660000" />
       <workItem from="1584444805462" duration="1088000" />
       <workItem from="1584445914552" duration="78000" />
-      <workItem from="1584490481574" duration="1920000" />
+      <workItem from="1584490481574" duration="7285000" />
+      <workItem from="1586347823638" duration="7736000" />
     </task>
     <task id="LOCAL-00001" summary="My first">
       <created>1584085123392</created>
@@ -306,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584445934192</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="My first&#10;线程之join&#10;线程死锁之模拟哲学家进餐问题&#10;线程之模拟一个发送垃圾短信的计时器&#10;反射之通过反射获取类、类的属性相关信息&#10;反射之方法、构造方法、操作String练习&#10;反射之IOC初识">
+      <created>1584492412899</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584492412899</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,34 +386,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="879" y="315" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1584344346524" />
-    <state x="713" y="0" key="CommitChangelistDialog2" timestamp="1584445931672">
+    <state x="713" y="0" key="CommitChangelistDialog2" timestamp="1584492410519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="713" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584445931672" />
+    <state x="713" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584492410519" />
     <state x="911" y="105" width="541" height="631" key="DiffContextDialog" timestamp="1584268912575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="911" y="105" width="541" height="631" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584268912575" />
-    <state x="951" y="178" key="FileChooserDialogImpl" timestamp="1584268615712">
+    <state x="951" y="178" key="FileChooserDialogImpl" timestamp="1586349080682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="951" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584268615712" />
-    <state width="686" height="158" key="GridCell.Tab.0.bottom" timestamp="1584443460654">
+    <state x="951" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586349080682" />
+    <state width="1493" height="286" key="GridCell.Tab.0.bottom" timestamp="1586356107862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="686" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584443460654" />
-    <state width="686" height="158" key="GridCell.Tab.0.center" timestamp="1584443460654">
+    <state width="1493" height="286" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586356107862" />
+    <state width="1493" height="286" key="GridCell.Tab.0.center" timestamp="1586356107862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="686" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584443460654" />
-    <state width="686" height="158" key="GridCell.Tab.0.left" timestamp="1584443460653">
+    <state width="1493" height="286" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586356107862" />
+    <state width="1493" height="286" key="GridCell.Tab.0.left" timestamp="1586356107861">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="686" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584443460653" />
-    <state width="686" height="158" key="GridCell.Tab.0.right" timestamp="1584443460654">
+    <state width="1493" height="286" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586356107861" />
+    <state width="1493" height="286" key="GridCell.Tab.0.right" timestamp="1586356107862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="686" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584443460654" />
+    <state width="1493" height="286" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586356107862" />
     <state width="686" height="257" key="GridCell.Tab.1.bottom" timestamp="1584412647529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -413,9 +450,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="356" y="38" width="1180" height="786" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584269092588" />
-    <state x="854" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584328287051">
+    <state x="445" y="259" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586350381497">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="854" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584328287051" />
+    <state x="445" y="259" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1586350381497" />
+    <state x="854" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586352154742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="854" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586352154742" />
   </component>
 </project>
